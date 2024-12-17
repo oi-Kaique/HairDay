@@ -73,6 +73,8 @@ Apply
   id: Identificador único
   name: Nome do cliente
   when: Data e hora do agendamento
+ 
+  
   🛠️ Desenvolvimento
   Pré-requisitos
   Node.js instalado
@@ -82,12 +84,16 @@ Apply
   Configure as variáveis de ambiente
   Verifique a conexão com a API
   Instale as dependências necessárias
+ 
+  
   🤝 Como Contribuir
   Faça um Fork do projeto
   Crie sua Feature Branch (git checkout -b feature/RecursoIncrivel)
   Commit suas alterações (git commit -m "Adicionando um recurso incrível")
   Push para a Branch (git push origin feature/RecursoIncrivel)
   Abra um Pull Request
+ 
+  
   🐛 Reportando Problemas
   Encontrou um bug? Abra uma issue descrevendo:
 
@@ -95,6 +101,8 @@ Apply
   Comportamento atual
   Passos para reproduzir o problema
   Screenshots (se aplicável)
+ 
+  
   📝 Licença
   Este projeto está sob a licença MIT.
 
