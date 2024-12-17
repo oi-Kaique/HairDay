@@ -20,6 +20,6 @@ export async function scheduleNew({id, name, when}){
 
   }catch(error){
     console.log(error);
-    alert("Não foi possível agendar Tente novamente mais tarde")
+    alert("Não foi possível agendar Tente novamente mais tarde.")
   }
 }
