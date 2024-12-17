@@ -27,35 +27,36 @@
 
 
 Execute
-
+``JS
   cd hairday
-
+``
 
 
 Execute
-
+``JS
   npm install
-
+``
 
 
 Apply
 
 📱 Como Usar
 Para iniciar a aplicação:
-
+``JS
 npm start
-
+``
 
 
 Apply
 
 🔍 Estrutura do Projeto
+``JS
   src/
     ├── services/
     │   ├── api-config.js
     │   └── schedule-new.js
     └── ...
-
+``
 
 
 Apply
